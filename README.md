@@ -101,7 +101,7 @@ smart-parking-system-ba/
 |-------|-------------|--------|
 | 01 — Business Context | Problem statement, stakeholder register | ✅ Complete |
 | 02 — Requirements | User stories, MoSCoW prioritisation | ✅ Complete |
-| 03 — Process Models | AS-IS & TO-BE BPMN diagrams | 🔲 Planned |
+| 03 — Process Models | AS-IS & TO-BE BPMN diagrams | ✅ Planned |
 | 04 — Use Cases | Use case diagram & descriptions | 🔲 Planned |
 | 05 — Data Design | ERD & data dictionary | 🔲 Planned |
 | 06 — Prototype | Python CLI application | 🔲 Planned |
